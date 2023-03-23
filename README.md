@@ -15,8 +15,8 @@
 - [The Sierpinski triangle by the chaos method](https://github.com/fisicpy/chaos-theory)
 
 ### Contacts
-Site - [https://fisicpy.github.io](https://fisicpy.github.io)
+Site - [http://fisicpy.tilda.ws/](http://fisicpy.tilda.ws/)
 
 VK - [https://vk.com/fisicpy](https://vk.com/fisicpy)
 
-Instagram - [https://www.instagram.com/fisicpy/](https://www.instagram.com/fisicpy/)
+Youtube - [https://www.youtube.com/channel/UCEdDJb2ZeIKUJxkOtQ4RQaw](https://www.youtube.com/channel/UCEdDJb2ZeIKUJxkOtQ4RQaw)
